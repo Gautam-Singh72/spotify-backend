@@ -1,0 +1,5 @@
+middleware req ke ander jo bhi data ata hai sab read kr skte hai
+
+request ke andar jo data ata hai use midfy bhi kar skte hai
+
+response bhi send kr skte hai
